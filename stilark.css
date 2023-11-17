@@ -1,0 +1,74 @@
+html {
+    height: 100%;
+  }
+ 
+  img {
+    width: 250px;
+    border-radius: 1000px;
+  }
+  body {
+    background: #DEDEDE;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS';
+}
+h1 {
+    font-size: 36px;
+  }
+ 
+  h2 {
+    font-size: 24px;
+  } 
+                                             
+  a {     /*form farge og utsende på linkene*/
+    background-color: rgb(61, 53, 53);                
+    color: #f7f3f3;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    width: 100%;
+    padding: 16px 0px;
+    margin-bottom: 16px;
+    border-radius: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  a:active{
+    color: rgb(148, 60, 60);
+  }
+  a:active{
+    color: none;
+  }
+  #hoved {
+    width: 360px;
+    margin: 60px auto;
+    text-align: center;
+  }
+
+  .day-mode a {
+    background-color: #2C3E50;
+    color: white;
+  }
+ 
+  .day-mode {
+    background: white;
+    color: #2C3E50;
+  }
+  body{
+    background: #2C3E50;
+    transition: background-color 2s ease;
+    color: white;
+    font-family: trebuchet MS;
+  }
+  h1, h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#navbar { /* id */
+    color: var(--text1);
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0px;
+    margin-top: 20px;
+    padding: 0px;
+has context menu}
